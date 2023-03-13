@@ -1,0 +1,3 @@
+
+-e git+https://github.com/MIC-DKFZ/nnUNet.git@aa53b3b87130ad78f0a28e6169a83215d708d659#egg=nnunet
+
